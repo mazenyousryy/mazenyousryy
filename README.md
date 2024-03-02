@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazen Yousry</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
+<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazenyousryy&label=Profile%20views&color=0e75b6&style=flat" alt="mazenyousryy" /> </p>
